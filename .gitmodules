@@ -1,0 +1,3 @@
+[submodule "repos/odin-recipes"]
+	path = repos/odin-recipes
+	url = https://github.com/domoago/odin-recipes
